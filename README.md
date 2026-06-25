@@ -69,7 +69,7 @@ Les jeux de données sont disponibles publiquement sur l'[UCI Machine Learning R
 ├── README.md
 └── data/                      # Fichiers CSV
 
-&#x20;   ├── breast\_cancer.csv
+    ├── breast\_cancer.csv
     ├── spambase.csv
     ├── car.csv
     └── mushroom.csv
